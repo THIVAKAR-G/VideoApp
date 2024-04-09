@@ -1,6 +1,6 @@
 const APP_ID = "d8103f42595748c8b570d17528f5ce1f"
-const TOKEN = "007eJxTYHh+lfHHjtlec2bu3zDz8tZLDJnMD0QO6axlmVZ/o85p5ptuBYYUC0MD4zQTI1NLU3MTi2SLJFNzgxRDc1MjizTT5FTDtKnqomkNgYwMbUsymRgZIBDEZ2UoycgsS2RgAADxDyC7"
-const CHANNEL = "thiva"
+const TOKEN = "007eJxTYHhm6jZpwx4jJo2F3JdrvugvXrzX35/tp//tpnucMcvXM75TYEixMDQwTjMxMrU0NTexSLZIMjU3SDE0NzWySDNNTjVMK9EQTWsIZGRQqLrMysgAgSA+K0NKZkVmCQMDAC/QHoY="
+const CHANNEL = "dixit"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
